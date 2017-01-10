@@ -2,7 +2,7 @@
 Overnight Sensations MTM Printed Circuit Board Project
 
 The [OS MTM](https://sites.google.com/site/undefinition/overnightsensationmtm) is a nice little speaker setup designed by Paul Carmody.
-There are DIY kits available at [DIY Sound Group|http://www.diysoundgroup.com/speaker-kits/overnight-sensation/osmtm-flat-pack.html].  If
+There are DIY kits available at [DIY Sound Group](http://www.diysoundgroup.com/speaker-kits/overnight-sensation/osmtm-flat-pack.html).  If
 you're nervous about assembling the crossover, you may simply take these Gerber files and get them produced from any PCB manufacturer.
 The cost is ~$20USD for 5 boards from the cheaper Chinese shops.
 
