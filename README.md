@@ -18,7 +18,7 @@ To start, I took Paul's original schematic:
 
 And redrew it in KiCad:
 
-![OS MTM KiCad](http://i.imgur.com/sXVFqQh.png)
+![OS MTM KiCad](http://i.imgur.com/lATkkyF.png?1)
 
 ## Footprints
 The Bill of Materials was cross referenced against the part spec sheets to draw the footprints for the various components.  The inductors
