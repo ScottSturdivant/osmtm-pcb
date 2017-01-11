@@ -20,10 +20,6 @@ And redrew it in KiCad:
 
 ![OS MTM KiCad](http://i.imgur.com/sXVFqQh.png)
 
-Because the two woofers are connected in parallel, I only drew one speaker on the schematic.  This is because when I was laying out the
-components on the PCB, I only needed a single connector for them but didn't know how to make the other one a no-connect and not generate
-warnings.
-
 ## Footprints
 The Bill of Materials was cross referenced against the part spec sheets to draw the footprints for the various components.  The inductors
 however were slightly made up as I didn't have the inner diameter of the coil.
@@ -34,7 +30,7 @@ There are holes for zip ties with a max width of 5mm used to hold the inductors 
 
 The resulting PCB winds up looking like this:
 
-![OS MTM PCB Layout](http://i.imgur.com/lOtlf45.png?1)
+![OS MTM PCB Layout](http://i.imgur.com/KtXjg2T.png?1)
 
 ## PCB Board
 
@@ -42,8 +38,8 @@ Using the excellent 3D models included with KiCad, here's what the board will mo
 
 Front:
 
-![OS MTM PCB Front](http://i.imgur.com/B13D2PJ.png?1)
+![OS MTM PCB Front](http://i.imgur.com/Cc6Nrno.png?1)
 
 Back:
 
-![OS MTM PCB Rear](http://i.imgur.com/Ni0jtDr.png?1)
+![OS MTM PCB Rear](http://i.imgur.com/qoJmYTJ.png?1)
