@@ -4,10 +4,10 @@ Overnight Sensations MTM Printed Circuit Board Project
 The [OS MTM](https://sites.google.com/site/undefinition/overnightsensationmtm) is a nice little speaker setup designed by Paul Carmody.
 There are DIY kits available at [DIY Sound Group](http://www.diysoundgroup.com/speaker-kits/overnight-sensation/osmtm-flat-pack.html).  If
 you're nervous about assembling the crossover, you may simply take these Gerber files and get them produced from any PCB manufacturer.
-The cost is ~$20USD for 5 boards from the cheaper Chinese shops.
+The cost is ~$20USD for 5 boards from the cheaper Chinese shops while some (PCBWay) offer $1/board for 10 boards if under 100mm x 100mm.
 
 ## Why
-While waiting for the OS MTM kits to come back in stock, and hating the idea of an MDF based crossover, I figured I'd dust off my EE skills
+While waiting for the OS MTM kits to come back in stock, and hating the idea of an MDF or pegboard based crossover, I figured I'd dust off my EE skills
 and take a stab at laying out a PCB, using the [KiCad](http://kicad-pcb.org) program.  This is purely overkill, you do not *need* a PCB, but it sure is nice.  And pretty.  Inside your
 speaker cabinet.
 
@@ -30,7 +30,7 @@ There are holes for zip ties with a max width of 5mm used to hold the inductors 
 
 The resulting PCB winds up looking like this:
 
-![OS MTM PCB Layout](http://i.imgur.com/KtXjg2T.png?1)
+![OS MTM PCB Layout](http://i.imgur.com/yK3t2aA.png?1)
 
 ## PCB Board
 
@@ -38,8 +38,8 @@ Using the excellent 3D models included with KiCad, here's what the board will mo
 
 Front:
 
-![OS MTM PCB Front](http://i.imgur.com/Cc6Nrno.png?1)
+![OS MTM PCB Front](http://i.imgur.com/q16D1zp.png?1)
 
 Back:
 
-![OS MTM PCB Rear](http://i.imgur.com/qoJmYTJ.png?1)
+![OS MTM PCB Rear](http://i.imgur.com/NhgJwWn.png?1)
